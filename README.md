@@ -1,6 +1,6 @@
 # Predicting-Late-Debt-Payments
 
-This mini paper on predicting late debt paymnts was written by Chi Wang and Matthias Lee, with the help of three other group members for statistics 306 of the University of British Columbia. The project looks into the data set: 2013 Survey of Consumer Finances (SCF), and identifies the charactristics that best predict people who have late debt payments using logistic regression. 
+This short paper on predicting late debt paymnts was written by Chi Wang and Matthias Lee, with the help of three other group members for statistics 306 of the University of British Columbia. The project looks into the data set: 2013 Survey of Consumer Finances (SCF), and identifies the charactristics that best predict people who have late debt payments using logistic regression. 
 
 
 
